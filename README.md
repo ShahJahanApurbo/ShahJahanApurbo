@@ -79,21 +79,6 @@ A smart course scheduling tool that automates conflict-aware schedule generation
 - 🎨 Interactive UI with validation, preferences, and export functionality
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![ShahJahanApurbo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahJahanApurbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJahanApurbo&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahJahanApurbo&theme=tokyonight&hide_border=true)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahJahanApurbo&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ## 🏆 Achievements & Awards
 
 - 🥇 **Best Integrated Development Project II Award**
