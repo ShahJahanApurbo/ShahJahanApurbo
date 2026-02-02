@@ -59,7 +59,7 @@ I'm a passionate **Frontend Developer** and **Computer Science student** at Gree
 
 - Developed **50+ component-driven** responsive web designs for the [Wecycle dashboard](https://dashboard-staging.getwecycle.com/)
 - Implemented **10+ SEO-friendly** pages on [WeCycle website](https://staging.getwecycle.com/hauler)
-- ✅ Integrated RESTful APIs with error handling, skeleton loading, and optimistic updates
+- Integrated RESTful APIs with error handling, skeleton loading, and optimistic updates
 
 ### Open-Source Contributor @ [GUCC](https://gucc.green.edu.bd/)
 **June 2025** | *Next.js, TypeScript, GraphQL, Hashnode*
