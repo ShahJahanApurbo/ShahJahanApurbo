@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shah Jahan Apurba!
+# Hi, I'm Shah Jahan Apurba!
 
 <div align="center">
   
@@ -11,18 +11,18 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Frontend Developer** and **Computer Science student** at Green University of Bangladesh (CGPA: 3.83/4.00). I specialize in building modern, responsive, and user-friendly web applications using cutting-edge technologies.
 
-- 🔭 Currently working as a **Frontend Developer** at [Wecycle](https://getwecycle.com/) (Remote)
-- 🌱 Continuously learning and exploring **Next.js**, **TypeScript**, and **GraphQL**
-- 👯 Open to collaborating on **open-source projects** and **innovative web applications**
-- 🏆 12th position in **HacktheAI Hackathon** (out of 242 teams across Bangladesh)
-- 🎓 3x **Vice Chancellor's Award** & 2x **Dean's Award** recipient
-- 💬 Ask me about **React, Next.js, TypeScript, or Frontend Development**
+ - Currently working as a **Frontend Developer** at [Wecycle](https://getwecycle.com/) (Remote)
+ - Continuously learning and exploring **Next.js**, **TypeScript**, and **GraphQL**
+ - Open to collaborating on **open-source projects** and **innovative web applications**
+ - 12th position in **HacktheAI Hackathon** (out of 242 teams across Bangladesh)
+ - 3x **Vice Chancellor's Award** & 2x **Dean's Award** recipient
+ - Ask me about **React, Next.js, TypeScript, or Frontend Development**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,50 +52,50 @@ I'm a passionate **Frontend Developer** and **Computer Science student** at Gree
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔹 Frontend Developer @ [Wecycle](https://getwecycle.com/) (Remote)
+### Frontend Developer @ [Wecycle](https://getwecycle.com/) (Remote)
 **Jun 2025 - Present** | *Next.js, TypeScript, TailwindCSS*
 
-- ✅ Developed **50+ component-driven** responsive web designs for the [Wecycle dashboard](https://dashboard-staging.getwecycle.com/)
-- ✅ Implemented **10+ SEO-friendly** pages on [WeCycle website](https://staging.getwecycle.com/hauler)
+- Developed **50+ component-driven** responsive web designs for the [Wecycle dashboard](https://dashboard-staging.getwecycle.com/)
+- Implemented **10+ SEO-friendly** pages on [WeCycle website](https://staging.getwecycle.com/hauler)
 - ✅ Integrated RESTful APIs with error handling, skeleton loading, and optimistic updates
 
-### 🔹 Open-Source Contributor @ [GUCC](https://gucc.green.edu.bd/)
+### Open-Source Contributor @ [GUCC](https://gucc.green.edu.bd/)
 **June 2025** | *Next.js, TypeScript, GraphQL, Hashnode*
 
-- ✅ Built production-ready [blog page](https://gucc.green.edu.bd/blog) integrated with **Hashnode**
-- ✅ Developed **GraphQL API** and reusable UI components for consistent user experience
+- Built production-ready [blog page](https://gucc.green.edu.bd/blog) integrated with **Hashnode**
+- Developed **GraphQL API** and reusable UI components for consistent user experience
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 📅 [GUB Course Scheduler](https://gub-course-scheduler.vercel.app/)
+### [GUB Course Scheduler](https://gub-course-scheduler.vercel.app/)
 *Next.js, TypeScript, Shadcn, TailwindCSS* | **March 2025**
 
 A smart course scheduling tool that automates conflict-aware schedule generation for university students.
 
-- 🎯 Reduced manual planning time from **3 hours to 3 minutes**
-- ⚡ Built server-side algorithms for conflict detection
-- 🎨 Interactive UI with validation, preferences, and export functionality
+- Reduced manual planning time from **3 hours to 3 minutes**
+- Built server-side algorithms for conflict detection
+- Interactive UI with validation, preferences, and export functionality
 
 ---
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
-- 🥇 **Best Integrated Development Project II Award**
-- 🥈 **12th Position** in HacktheAI Hackathon (242 teams nationwide)
-- 🎓 **3x Vice Chancellor's Award** for Academic Excellence
-- 🎓 **2x Dean's Award** for Academic Excellence
-- ⭐ Perfect **GPA 5.00** in both SSC & HSC
+- **Best Integrated Development Project II Award**
+- **12th Position** in HacktheAI Hackathon (242 teams nationwide)
+- **3x Vice Chancellor's Award** for Academic Excellence
+- **2x Dean's Award** for Academic Excellence
+- Perfect **GPA 5.00** in both SSC & HSC
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 **LinkedIn:** [Md Shajahan Apurba](https://www.linkedin.com/in/md-shajahan-apurba-37ba2520a/)
-- 🐦 **X (Twitter):** [@ShajahanApurbo](https://x.com/ShajahanApurbo)
-- 📧 **Email:** [shajahanapurba767@gmail.com](mailto:shajahanapurba767@gmail.com)
-- 🌐 **Portfolio:** [mdshajahanapurbo.com](https://shahjahanapurbo.github.io/responsive-portfolio/)
-- 📱 **WhatsApp:** [+8801822422767](https://wa.me/+8801822422767)
+- **LinkedIn:** [Md Shajahan Apurba](https://www.linkedin.com/in/md-shajahan-apurba-37ba2520a/)
+- **X (Twitter):** [@ShajahanApurbo](https://x.com/ShajahanApurbo)
+- **Email:** [shajahanapurba767@gmail.com](mailto:shajahanapurba767@gmail.com)
+- **Portfolio:** [mdshajahanapurbo.com](https://shahjahanapurbo.github.io/responsive-portfolio/)
+- **WhatsApp:** [+8801822422767](https://wa.me/+8801822422767)
 
 ---
 
@@ -103,8 +103,8 @@ I'm always open to interesting conversations and collaboration opportunities!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ShahJahanApurbo&color=blueviolet&style=for-the-badge)
   
-  ### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  ### *"Code is like humor. When you have to explain it, it's bad."* - Cory House
   
-  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 😊**
+  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
 
 </div>
